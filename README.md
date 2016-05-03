@@ -3,6 +3,8 @@ WordPress Docker image bundled with MySQL, the [WP OpenData plugin](https://word
 
 Note, this project is adapted from the [docker-wordpress-cli](https://github.com/KaiHofstetter/docker-wordpress-cli) project with some modifications and enhancements. Additional enhancement and improvements are in the works.
 
+![WordPress for Open Data](https://raw.githubusercontent.commheadd/wp-opendata/blob/master/wp-opendata.gif "WordPress for Open Data")
+
 ## How to use it
 
 1. Build the image
