@@ -1,7 +1,7 @@
 # WordPress Open Data Site
 WordPress Docker image bundled with MySQL, the [WP OpenData plugin](https://wordpress.org/plugins/wp-opendata/) and [GovPress theme](http://www.govpress.co/). An easy way to get started using WordPress as a basic open data directory.
 
-Note, this project is adapted from the [docker-wordpress-cli](https://github.com/KaiHofstetter/docker-wordpress-cli) project with some modifications and enhancements. Addional enhancement and improvements are in the works.
+Note, this project is adapted from the [docker-wordpress-cli](https://github.com/KaiHofstetter/docker-wordpress-cli) project with some modifications and enhancements. Additional enhancement and improvements are in the works.
 
 ## How to use it
 
