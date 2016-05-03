@@ -10,13 +10,13 @@ First, get [Docker](https://www.docker.com/). Then...
 * Build the image
 
 ```
-docker build -t {user-name}/wordpress-opendata -f Dockerfile .
+~$ docker build -t {user-name}/wordpress-opendata -f Dockerfile .
 ```
 
 * Run WordPress
 
 ```
-docker run -e "WP_URL=http://{docker-ip}" -e "WP_PORT={docker-port}" --name wordpress-opendata -p {exposed-port}:80 -d {user-name}/wordpress-opendata 
+~$ docker run -e "WP_URL=http://{docker-ip}" -e "WP_PORT={docker-port}" --name wordpress-opendata -p {exposed-port}:80 -d {user-name}/wordpress-opendata 
 ```
 
 * Access WordPress
