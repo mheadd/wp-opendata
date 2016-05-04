@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Kai Hofstetter <kai.hofstetter@gmx.de>
+MAINTAINER Kai Hofstetter <mheadd@gmail.com>
 
 # Install lamp stack plus curl
 RUN apt-get update && \
